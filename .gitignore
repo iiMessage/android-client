@@ -57,7 +57,7 @@ gen/
 build/
 
 # local configuration file (for Android sdk path, etc)
-app/local.properties
+local.properties
 
 # OSX files
 .DS_Store
@@ -76,6 +76,4 @@ app/local.properties
 obj/
 
 # Gradle
-gradle/
-gradlew*
 jars
